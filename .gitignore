@@ -1,0 +1,75 @@
+# Arquivos de compilação e artefatos gerados
+bin/
+obj/
+
+# Arquivos de configuração local
+*.user
+*.suo
+*.sln.docstates
+
+# Logs e arquivos temporários
+*.log
+*.bak
+*.cache
+
+# Arquivos de ambiente e configuração específicos
+.env
+appsettings.json
+appsettings.Development.json
+
+# Dependências e pacotes NuGet
+packages/
+*.nupkg
+*.paket
+
+# Arquivos de build do Visual Studio
+.vs/
+
+# Arquivos de histórico de sessão do VS Code
+.vscode/
+
+# Qualquer arquivo de saída de ferramentas
+*.csv
+
+# Arquivos específicos da IDE ou editor
+*.idea/
+*.sln.ide
+*.suo
+*.sdf
+
+# Arquivos de análise estática
+*.opendb
+*.opendb.bak
+
+# Arquivos de resíduos do Windows
+Thumbs.db
+ehthumbs.db
+
+# Arquivos de resíduos do Mac
+.DS_Store
+
+# Arquivos de cache do Visual Studio
+.vscode/
+
+# Pacotes de cache
+node_modules/
+npm-debug.log
+
+# Arquivos de dependência
+jspm_packages/
+
+# Logs
+logs/
+
+# Sistemas de compilação
+bower_components/
+
+# Outros
+.nuget/
+app/bower_components
+typings/
+lib/
+
+# Logs e arquivos de depuração
+logs
+*.log
